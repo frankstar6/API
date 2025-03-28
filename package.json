@@ -12,7 +12,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node webSumar/server.js",
+    "start": "node paginaweb/server.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
